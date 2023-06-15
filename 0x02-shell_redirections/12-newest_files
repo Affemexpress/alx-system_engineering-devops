@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -pta | grep -v / | head -10
